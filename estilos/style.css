@@ -46,6 +46,7 @@ iframe#tela {
 }
 
 section#redes-sociais {
+    padding-left: 10px;
     padding-top: 250px;
     text-align: right;
     vertical-align: middle;
